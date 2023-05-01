@@ -23,3 +23,6 @@ Then make the model files using [main.ipynb](https://github.com/Ritesh060/Paraph
 It takes around 4 hours to make the required model files.
 
 Then run [paraphrase_main.ipynb](https://github.com/Ritesh060/Paraphrase-Word2Vec/blob/main/paraphrase_main.ipynb), to input the sentence to be paraphrased.
+
+## Demo
+A basic demo using a random sentence can be found [here](https://www.youtube.com/watch?v=uTgfFME4D2E).
